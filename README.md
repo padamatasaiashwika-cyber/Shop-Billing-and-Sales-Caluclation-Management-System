@@ -1,0 +1,2 @@
+# Shop-Billing-and-Sales-Caluclation-Management-System
+Shop Billing and Sales Calculation Management System is a mini project that demonstrates the use of Data Structures and Algorithms concepts. The system manages product details, performs searching using Linear and Binary Search, and sorts data using Bubble, Insertion, Selection, Merge, and Quick Sort while generating bills and calculating total sale
